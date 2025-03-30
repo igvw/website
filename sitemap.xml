@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><sitemap><loc>https://ignaz.io/en/sitemap.xml</loc><lastmod>2025-03-03T00:00:00+00:00</lastmod></sitemap><sitemap><loc>https://ignaz.io/de/sitemap.xml</loc><lastmod>2025-02-25T00:00:00+00:00</lastmod></sitemap><sitemap><loc>https://ignaz.io/nl/sitemap.xml</loc><lastmod>2025-02-25T00:00:00+00:00</lastmod></sitemap><sitemap><loc>https://ignaz.io/no/sitemap.xml</loc><lastmod>2025-02-25T00:00:00+00:00</lastmod></sitemap></sitemapindex>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>http://localhost:1313/en/sitemap.xml</loc>
+    
+      <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://localhost:1313/de/sitemap.xml</loc>
+    
+      <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://localhost:1313/nl/sitemap.xml</loc>
+    
+      <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://localhost:1313/no/sitemap.xml</loc>
+    
+      <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>
