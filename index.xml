@@ -106,4 +106,27 @@ container.prepend(pyramidWrapper);
 &lt;/ul>
 &lt;/li>
 &lt;/ul></description></item><item><title>Machine Learning Engineering</title><link>https://ignaz.io/fields/ml-engineering/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/fields/ml-engineering/</guid><description>&lt;p>ML Engineering turns raw data into actionable insights. Cutting edge models studied in theoretical computer science are often under utilized in the industry. This is in part due to rightful skepticism regarding the model&amp;rsquo;s explainability and ability to generalize to new data outside of their training sets. In my experience, decision trees and regression are by far the most widely used models where safety is critical.&lt;/p>
-&lt;p>Sure, you can use LLMs to chat to your customers, but you should not use it to detect fraud just yet.&lt;/p></description></item><item><title>Python</title><link>https://ignaz.io/tools/python/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/tools/python/</guid><description>&lt;p>Python is a high-level programming language that consistently ranks as &lt;a href="https://www.tiobe.com/tiobe-index/">one of the most popular&lt;/a>. As a glue language, it brings a simple API to performant &lt;a href="https://github.com/vinta/awesome-python">libraries&lt;/a> written in other languages. It is also one of the only languages I can rightfully claim to write idiomatic code in. I try my best to stick to the &lt;a href="https://peps.python.org/pep-0008/">official style guide&lt;/a> and normally read release notes as soon as they come out, so I can flex on other programmers by using the walrus operator &lt;code>:=&lt;/code>.&lt;/p></description></item></channel></rss>
+&lt;p>Sure, you can use LLMs to chat to your customers, but you should not use it to detect fraud just yet.&lt;/p></description></item><item><title>Media Sources</title><link>https://ignaz.io/posts/influences/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/posts/influences/</guid><description>&lt;h2 id="as-soon-as-it-releases">As soon as it releases&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.youtube.com/@Fireship">Fireship&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/@TwoMinutePapers">Two Minute Papers&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="frequently">Frequently&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.youtube.com/@synthet7">Synthet&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/@fern-tv">Fern&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/@very-normal">Very Normal&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/@kurzgesagt">Kurzgesagt&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/@benjjjaamiinn">Benjamin&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/@EconomicsExplained">Economics Explained&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/@WelchLabsVideo">Welch Labs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/@MarkRober">Mark Rober&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/@Coffeezilla">Coffeezilla&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/@BenFelixCSI">Ben Felix&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="data-visualization">Data Visualization&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://truth-and-beauty.net/projects">Truth &amp;amp; Beauty&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ourworldindata.org/">Our World in Data&lt;/a>&lt;/li>
+&lt;li>&lt;a href="">fivethirtyeight&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Python</title><link>https://ignaz.io/tools/python/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/tools/python/</guid><description>&lt;p>Python is a high-level programming language that consistently ranks as &lt;a href="https://www.tiobe.com/tiobe-index/">one of the most popular&lt;/a>. As a glue language, it brings a simple API to performant &lt;a href="https://github.com/vinta/awesome-python">libraries&lt;/a> written in other languages. It is also one of the only languages I can rightfully claim to write idiomatic code in. I try my best to stick to the &lt;a href="https://peps.python.org/pep-0008/">official style guide&lt;/a> and normally read release notes as soon as they come out, so I can flex on other programmers by using the walrus operator &lt;code>:=&lt;/code>.&lt;/p></description></item></channel></rss>
