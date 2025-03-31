@@ -41,7 +41,7 @@ pyramidWrapper.appendChild(layer);
 container.prepend(pyramidWrapper);
 });
 &lt;/script>
-&lt;p>Machine learning has transformed the business landscape by enabling scalable data analysis and data-driven decision-making. However, building the technology stack to turn raw data into actionable insights is no simple task.&lt;/p></description></item><item><title>New Website</title><link>https://ignaz.io/posts/new_site/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/posts/new_site/</guid><description>&lt;p>&lt;em>The room is dimly lit. The air is thick with competition. A group of developers sits around a sleek, minimalist table, each armed with their laptops. Patrick Bateman, a sharply dressed full-stack developer, leans back in his chair, fingers steepled, waiting for his moment.&lt;/em>&lt;/p>
+&lt;p>Machine learning has transformed the business landscape by enabling scalable data analysis and data-driven decision-making. However, building the technology stack to turn raw data into actionable insights is no simple task.&lt;/p></description></item><item><title>New Website</title><link>https://ignaz.io/posts/new_site/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/posts/new_site/</guid><description>&lt;p>&lt;em>The room is dimly lit. The air is thick with competition. A group of developers sit around a sleek, minimalist table, each armed with their laptops. Patrick Bateman, a sharply dressed full-stack developer, leans back in his chair, fingers steepled, waiting for his moment.&lt;/em>&lt;/p>
 &lt;p>&lt;strong>McDermott (smugly):&lt;/strong> Check this out, guys.&lt;/p>
 &lt;p>&lt;em>Taps his trackpad. A pristine webpage fades onto the projector screen.&lt;/em>&lt;/p>
 &lt;p>&lt;strong>McDermott:&lt;/strong> I just launched my new portfolio. Blazingly fast. Gatsby. Tailwind. Hosted on Vercel.&lt;/p></description></item><item><title/><link>https://ignaz.io/posts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/posts/</guid><description/></item><item><title/><link>https://ignaz.io/tools/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/tools/</guid><description/></item><item><title>$ whoami</title><link>https://ignaz.io/posts/whoami/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/posts/whoami/</guid><description>&lt;p>I’m a data generalist who thrives on solving complex problems and learning emerging technologies. While much of my professional experience is in infrastructure and server automation, my real passion lies in machine learning, computational analysis, and data visualization&lt;/p>
@@ -110,15 +110,17 @@ container.prepend(pyramidWrapper);
 &lt;ul>
 &lt;li>&lt;a href="https://www.youtube.com/@Fireship">Fireship&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.youtube.com/@TwoMinutePapers">Two Minute Papers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/@MorningBrewDailyShow">Morning Bew Daily&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="frequently">Frequently&lt;/h2>
 &lt;ul>
+&lt;li>&lt;a href="https://www.youtube.com/@benjjjaamiinn">Benjamin&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/@EconomicsExplained">Economics Explained&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/@kurzgesagt">Kurzgesagt&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/@3blue1brown">3blue1brown&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.youtube.com/@synthet7">Synthet&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.youtube.com/@fern-tv">Fern&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.youtube.com/@very-normal">Very Normal&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/@kurzgesagt">Kurzgesagt&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/@benjjjaamiinn">Benjamin&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/@EconomicsExplained">Economics Explained&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.youtube.com/@WelchLabsVideo">Welch Labs&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.youtube.com/@MarkRober">Mark Rober&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.youtube.com/@Coffeezilla">Coffeezilla&lt;/a>&lt;/li>
