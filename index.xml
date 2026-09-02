@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>homepage on Ignaz.io</title><link>https://ignaz.io/</link><description>Recent content in homepage on Ignaz.io</description><generator>Hugo -- 0.145.0</generator><language>en</language><lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ignaz.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Gender Distributions of Norwegian Naturalizations</title><link>https://ignaz.io/data/norway_naturalizations/</link><pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate><guid>https://ignaz.io/data/norway_naturalizations/</guid><description>plotly divergent bar plot graph ssb Statistisk sentralbyrå data norway naturalization population background male female gender excess</description></item><item><title>Norway Migration</title><link>https://ignaz.io/data/norway_migration/</link><pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate><guid>https://ignaz.io/data/norway_migration/</guid><description>plotly sunburst graphs ssb Statistisk sentralbyrå data norway migrant population background subregion sub region country</description></item><item><title>World Bank</title><link>https://ignaz.io/data/world_bank/</link><pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate><guid>https://ignaz.io/data/world_bank/</guid><description>Using World Bank data to compare GDP per capita (x-axis), life expectancy(color), fertility rate(y-axis), and population(size).
-&lt;iframe src="https://ignaz.io/plotly_worldbank.html" style="all: unset; width: 100vw; height: 100vh; border: none;">&lt;/iframe></description></item><item><title>Machine Learning Ecosystem</title><link>https://ignaz.io/posts/ml_ecosystem/</link><pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate><guid>https://ignaz.io/posts/ml_ecosystem/</guid><description>&lt;script>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Ignaz.io</title><link>https://ignaz.io/</link><description>Recent content on Ignaz.io</description><image><title>Ignaz.io</title><url>https://ignaz.io/og.png</url><link>https://ignaz.io/og.png</link></image><generator>Hugo</generator><language>en-GB</language><lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ignaz.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Gender Distributions of Norwegian Naturalizations</title><link>https://ignaz.io/data/norway_naturalizations/</link><pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate><guid>https://ignaz.io/data/norway_naturalizations/</guid><description>plotly divergent bar plot graph ssb Statistisk sentralbyrå data norway naturalization population background male female gender excess</description></item><item><title>Norway Migration</title><link>https://ignaz.io/data/norway_migration/</link><pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate><guid>https://ignaz.io/data/norway_migration/</guid><description>plotly sunburst graphs ssb Statistisk sentralbyrå data norway migrant population background subregion sub region country</description></item><item><title>World Bank</title><link>https://ignaz.io/data/world_bank/</link><pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate><guid>https://ignaz.io/data/world_bank/</guid><description>Using World Bank data to compare GDP per capita (x-axis), life expectancy(color), fertility rate(y-axis), and population(size).</description></item><item><title>Machine Learning Ecosystem</title><link>https://ignaz.io/posts/ml_ecosystem/</link><pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate><guid>https://ignaz.io/posts/ml_ecosystem/</guid><description>&lt;script&gt;
 document.addEventListener("DOMContentLoaded", function () {
 const container = document.querySelector(".post-content");
 if (!container) return;
@@ -18,7 +17,7 @@ const levels = [
 { id: "data-engineering", text: "Data Engineering", color: "#264653", url: '../../fields/data-engineering/' },
 { id: "devops", text: "DevOps", color: "#e76f51", url: '../../fields/devops/' }
 ];
-levels.forEach((level, index) => {
+levels.forEach((level, index) =&gt; {
 const layer = document.createElement("a");
 layer.id = level.id;
 layer.textContent = level.text;
@@ -40,94 +39,94 @@ pyramidWrapper.appendChild(layer);
 });
 container.prepend(pyramidWrapper);
 });
-&lt;/script>
-&lt;p>Machine learning has transformed the business landscape by enabling scalable data analysis and data-driven decision-making. However, building the technology stack to turn raw data into actionable insights is no simple task.&lt;/p></description></item><item><title>New Website</title><link>https://ignaz.io/posts/new_site/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/posts/new_site/</guid><description>&lt;p>&lt;em>The room is dimly lit. The air is thick with competition. A group of developers sit around a sleek, minimalist table, each armed with their laptops. Patrick Bateman, a sharply dressed full-stack developer, leans back in his chair, fingers steepled, waiting for his moment.&lt;/em>&lt;/p>
-&lt;p>&lt;strong>McDermott (smugly):&lt;/strong> Check this out, guys.&lt;/p>
-&lt;p>&lt;em>Taps his trackpad. A pristine webpage fades onto the projector screen.&lt;/em>&lt;/p>
-&lt;p>&lt;strong>McDermott:&lt;/strong> I just launched my new portfolio. Blazingly fast. Gatsby. Tailwind. Hosted on Vercel.&lt;/p></description></item><item><title/><link>https://ignaz.io/posts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/posts/</guid><description/></item><item><title/><link>https://ignaz.io/tools/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/tools/</guid><description/></item><item><title>$ whoami</title><link>https://ignaz.io/posts/whoami/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/posts/whoami/</guid><description>&lt;p>I’m a data generalist who thrives on solving complex problems and learning emerging technologies. While much of my professional experience is in infrastructure and server automation, my real passion lies in machine learning, computational analysis, and data visualization&lt;/p>
-&lt;p>I make frequent use of LLMs to give quick answers to small tasks, but I&amp;rsquo;m always mindful of how confidently wrong they can be. Despite this, I still read API documentation, and often dig into the source code of libraries if documentation is incomplete.&lt;/p></description></item><item><title>archivetitle</title><link>https://ignaz.io/archive/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/archive/</guid><description>&lt;p>This is an archive&lt;/p>
-&lt;p>Archive content&lt;/p></description></item><item><title>Bash</title><link>https://ignaz.io/tools/bash/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/tools/bash/</guid><description>&lt;p>Bash is the default shell environment for most modern Linux distributions. While the differences between different shell environments are minimal if you are not a power user, Bash has extended functionality. Any executable in your &lt;code>$PATH&lt;/code> environment variable can be used as a Bash command, and referencing an executable outside of &lt;code>$PATH&lt;/code> will execute it by default. While Bash has &lt;a href="https://www.gnu.org/software/bash/manual/bash.html">very complete documentation&lt;/a>, this post will demonstrate a few hacks and common usage patterns for bash scripting.&lt;/p></description></item><item><title>Business</title><link>https://ignaz.io/fields/business/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/fields/business/</guid><description>&lt;p>Throughout different sectors and industries, business needs vary wildly, but they have some commonality. Most businesses collect and analyze data, which requires robust digital infrastructure. Some of the most common operations involving data analysis include:&lt;/p>
-&lt;p>Investors can also use data analysis to predict the share price of businesses. It is common practice for companies to invest in their competitors as a hedge. Some useful metrics to study businesses include:&lt;/p>
-&lt;ul>
-&lt;li>Financial metrics&lt;/li>
-&lt;li>Sentiment analysis&lt;/li>
-&lt;li>Economic indicators
-&lt;ul>
-&lt;li>Few buy new socks during a recession, many buy canned foods and processed meat&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Stock market trends&lt;/li>
-&lt;/ul></description></item><item><title>Data Engineering</title><link>https://ignaz.io/fields/data-engineering/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/fields/data-engineering/</guid><description>&lt;p>Data Engineers collect and format data. Data wrangling is one of the most tedious and time consuming tasks in the ML stack and eliminating it at this layer solves a lot of problems down stream. Data versioning and database partitioning ensures that old data can be discarded when it becomes irrelevant or non-compliant with privacy laws.&lt;/p>
+&lt;/script&gt;
+&lt;p&gt;Machine learning has transformed the business landscape by enabling scalable data analysis and data-driven decision-making. However, building the technology stack to turn raw data into actionable insights is no simple task.&lt;/p&gt;</description></item><item><title>New Website</title><link>https://ignaz.io/posts/new_site/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/posts/new_site/</guid><description>&lt;p&gt;&lt;em&gt;The room is dimly lit. The air is thick with competition. A group of developers sit around a sleek, minimalist table, each armed with their laptops. Patrick Bateman, a sharply dressed full-stack developer, leans back in his chair, fingers steepled, waiting for his moment.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;McDermott (smugly):&lt;/strong&gt; Check this out, guys.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Taps his trackpad. A pristine webpage fades onto the projector screen.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;McDermott:&lt;/strong&gt; I just launched my new portfolio. Blazingly fast. Gatsby. Tailwind. Hosted on Vercel.&lt;/p&gt;</description></item><item><title/><link>https://ignaz.io/posts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/posts/</guid><description/></item><item><title/><link>https://ignaz.io/tools/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/tools/</guid><description/></item><item><title>$ whoami</title><link>https://ignaz.io/posts/whoami/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/posts/whoami/</guid><description>&lt;p&gt;I’m a data generalist who thrives on solving complex problems and learning emerging technologies. While much of my professional experience is in infrastructure and server automation, my real passion lies in machine learning, computational analysis, and data visualization&lt;/p&gt;
+&lt;p&gt;I make frequent use of LLMs to give quick answers to small tasks, but I&amp;rsquo;m always mindful of how confidently wrong they can be. Despite this, I still read API documentation, and often dig into the source code of libraries if documentation is incomplete.&lt;/p&gt;</description></item><item><title>archivetitle</title><link>https://ignaz.io/archive/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/archive/</guid><description>&lt;p&gt;This is an archive&lt;/p&gt;
+&lt;p&gt;Archive content&lt;/p&gt;</description></item><item><title>Bash</title><link>https://ignaz.io/tools/bash/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/tools/bash/</guid><description>&lt;p&gt;Bash is the default shell environment for most modern Linux distributions. While the differences between different shell environments are minimal if you are not a power user, Bash has extended functionality. Any executable in your &lt;code&gt;$PATH&lt;/code&gt; environment variable can be used as a Bash command, and referencing an executable outside of &lt;code&gt;$PATH&lt;/code&gt; will execute it by default. While Bash has &lt;a href="https://www.gnu.org/software/bash/manual/bash.html"&gt;very complete documentation&lt;/a&gt;, this post will demonstrate a few hacks and common usage patterns for bash scripting.&lt;/p&gt;</description></item><item><title>Business</title><link>https://ignaz.io/fields/business/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/fields/business/</guid><description>&lt;p&gt;Throughout different sectors and industries, business needs vary wildly, but they have some commonality. Most businesses collect and analyze data, which requires robust digital infrastructure. Some of the most common operations involving data analysis include:&lt;/p&gt;
+&lt;p&gt;Investors can also use data analysis to predict the share price of businesses. It is common practice for companies to invest in their competitors as a hedge. Some useful metrics to study businesses include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Financial metrics&lt;/li&gt;
+&lt;li&gt;Sentiment analysis&lt;/li&gt;
+&lt;li&gt;Economic indicators
+&lt;ul&gt;
+&lt;li&gt;Few buy new socks during a recession, many buy canned foods and processed meat&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Stock market trends&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Data Engineering</title><link>https://ignaz.io/fields/data-engineering/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/fields/data-engineering/</guid><description>&lt;p&gt;Data Engineers collect and format data. Data wrangling is one of the most tedious and time consuming tasks in the ML stack and eliminating it at this layer solves a lot of problems down stream. Data versioning and database partitioning ensures that old data can be discarded when it becomes irrelevant or non-compliant with privacy laws.&lt;/p&gt;
 &lt;!-- AI is only as good as the data it learns from. Data engineering transforms raw, messy, and unstructured data into clean, structured, and accessible formats. ETL pipelines, data lakes, and cloud storage enable businesses to make real-time decisions, detect trends, and automate workflows—a necessity for personalization, fraud detection, and operational efficiency.
---></description></item><item><title>DevOps</title><link>https://ignaz.io/fields/devops/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/fields/devops/</guid><description>&lt;p>DevOps ensures scalable, secure, and &lt;a href="https://en.wikipedia.org/wiki/High_availability#Percentage_calculation">resilient&lt;/a> infrastructure for AI/ML workloads. By implementing CI/CD pipelines, infrastructure-as-code (IaC), and cloud automation, businesses reduce downtime, improve security posture, and enable rapid innovation. Without DevOps, AI models remain trapped in research notebooks rather than production-ready systems.&lt;/p>
-&lt;p>During my time at SpatialEdge, I was thrown in the deep end as a contractor for the big data operations team of one of the largest telecommunications provider in South Africa. While it is hard to define what we do as a team in a single sentence, we use administrator privilege to solve all issues that do not specifically fall in the domain of other teams. If there is a production incident at 3am, a team representative will certainly be on a call. While my team is responsible for maintaining a wide array of technologies, mostly the installation, initial setup, and maintenance thereof, our key technologies are the following:&lt;/p></description></item><item><title>Linux</title><link>https://ignaz.io/tools/linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/tools/linux/</guid><description>&lt;p>As a software professional, Linux is at the foundation. While I have some knowledge about hardware, and machine level code, it&amp;rsquo;s important to pick the level of abstraction one wants to work at. I use Ubuntu linux on my personal computer and have experience with Red Hat from my career. I have a deep understanding of many linux concepts&lt;/p>
-&lt;ul>
-&lt;li>process management:
-&lt;ul>
-&lt;li>ps&lt;/li>
-&lt;li>top&lt;/li>
-&lt;li>netstat&lt;/li>
-&lt;li>kill&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>filesystems
-&lt;ul>
-&lt;li>du&lt;/li>
-&lt;li>df&lt;/li>
-&lt;li>lsblk&lt;/li>
-&lt;li>blkid&lt;/li>
-&lt;li>mount&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>permission management
-&lt;ul>
-&lt;li>chown&lt;/li>
-&lt;li>chmod&lt;/li>
-&lt;li>getfacl, setfacl&lt;/li>
-&lt;li>ldap&lt;/li>
-&lt;li>umask&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>package management
-&lt;ul>
-&lt;li>satellite repos&lt;/li>
-&lt;li>yum&lt;/li>
-&lt;li>dnf&lt;/li>
-&lt;li>dpkg&lt;/li>
-&lt;li>make&lt;/li>
-&lt;li>apt&lt;/li>
-&lt;li>snap&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>system daemon
-&lt;ul>
-&lt;li>systemctl (try with list-units and grep)&lt;/li>
-&lt;li>journalctl&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul></description></item><item><title>Machine Learning Engineering</title><link>https://ignaz.io/fields/ml-engineering/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/fields/ml-engineering/</guid><description>&lt;p>ML Engineering turns raw data into actionable insights. Cutting edge models studied in theoretical computer science are often under utilized in the industry. This is in part due to rightful skepticism regarding the model&amp;rsquo;s explainability and ability to generalize to new data outside of their training sets. In my experience, decision trees and regression are by far the most widely used models where safety is critical.&lt;/p>
-&lt;p>Sure, you can use LLMs to chat to your customers, but you should not use it to detect fraud just yet.&lt;/p></description></item><item><title>Media Sources</title><link>https://ignaz.io/posts/influences/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/posts/influences/</guid><description>&lt;h2 id="as-soon-as-it-releases">As soon as it releases&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://www.youtube.com/@Fireship">Fireship&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/@TwoMinutePapers">Two Minute Papers&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/@MorningBrewDailyShow">Morning Bew Daily&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="frequently">Frequently&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://www.youtube.com/@benjjjaamiinn">Benjamin&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/@EconomicsExplained">Economics Explained&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/@kurzgesagt">Kurzgesagt&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/@3blue1brown">3blue1brown&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/@synthet7">Synthet&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/@fern-tv">Fern&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/@very-normal">Very Normal&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/@WelchLabsVideo">Welch Labs&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/@MarkRober">Mark Rober&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/@Coffeezilla">Coffeezilla&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/@BenFelixCSI">Ben Felix&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="data-visualization">Data Visualization&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://truth-and-beauty.net/projects">Truth &amp;amp; Beauty&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://ourworldindata.org/">Our World in Data&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Python</title><link>https://ignaz.io/tools/python/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/tools/python/</guid><description>&lt;p>Python is a high-level programming language that consistently ranks as &lt;a href="https://www.tiobe.com/tiobe-index/">one of the most popular&lt;/a>. As a glue language, it brings a simple API to performant &lt;a href="https://github.com/vinta/awesome-python">libraries&lt;/a> written in other languages. It is also one of the only languages I can rightfully claim to write idiomatic code in. I try my best to stick to the &lt;a href="https://peps.python.org/pep-0008/">official style guide&lt;/a> and normally read release notes as soon as they come out, so I can flex on other programmers by using the walrus operator &lt;code>:=&lt;/code>.&lt;/p></description></item></channel></rss>
+--&gt;</description></item><item><title>DevOps</title><link>https://ignaz.io/fields/devops/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/fields/devops/</guid><description>&lt;p&gt;DevOps ensures scalable, secure, and &lt;a href="https://en.wikipedia.org/wiki/High_availability#Percentage_calculation"&gt;resilient&lt;/a&gt; infrastructure for AI/ML workloads. By implementing CI/CD pipelines, infrastructure-as-code (IaC), and cloud automation, businesses reduce downtime, improve security posture, and enable rapid innovation. Without DevOps, AI models remain trapped in research notebooks rather than production-ready systems.&lt;/p&gt;
+&lt;p&gt;During my time at SpatialEdge, I was thrown in the deep end as a contractor for the big data operations team of one of the largest telecommunications provider in South Africa. While it is hard to define what we do as a team in a single sentence, we use administrator privilege to solve all issues that do not specifically fall in the domain of other teams. If there is a production incident at 3am, a team representative will certainly be on a call. While my team is responsible for maintaining a wide array of technologies, mostly the installation, initial setup, and maintenance thereof, our key technologies are the following:&lt;/p&gt;</description></item><item><title>Linux</title><link>https://ignaz.io/tools/linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/tools/linux/</guid><description>&lt;p&gt;As a software professional, Linux is at the foundation. While I have some knowledge about hardware, and machine level code, it&amp;rsquo;s important to pick the level of abstraction one wants to work at. I use Ubuntu linux on my personal computer and have experience with Red Hat from my career. I have a deep understanding of many linux concepts&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;process management:
+&lt;ul&gt;
+&lt;li&gt;ps&lt;/li&gt;
+&lt;li&gt;top&lt;/li&gt;
+&lt;li&gt;netstat&lt;/li&gt;
+&lt;li&gt;kill&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;filesystems
+&lt;ul&gt;
+&lt;li&gt;du&lt;/li&gt;
+&lt;li&gt;df&lt;/li&gt;
+&lt;li&gt;lsblk&lt;/li&gt;
+&lt;li&gt;blkid&lt;/li&gt;
+&lt;li&gt;mount&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;permission management
+&lt;ul&gt;
+&lt;li&gt;chown&lt;/li&gt;
+&lt;li&gt;chmod&lt;/li&gt;
+&lt;li&gt;getfacl, setfacl&lt;/li&gt;
+&lt;li&gt;ldap&lt;/li&gt;
+&lt;li&gt;umask&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;package management
+&lt;ul&gt;
+&lt;li&gt;satellite repos&lt;/li&gt;
+&lt;li&gt;yum&lt;/li&gt;
+&lt;li&gt;dnf&lt;/li&gt;
+&lt;li&gt;dpkg&lt;/li&gt;
+&lt;li&gt;make&lt;/li&gt;
+&lt;li&gt;apt&lt;/li&gt;
+&lt;li&gt;snap&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;system daemon
+&lt;ul&gt;
+&lt;li&gt;systemctl (try with list-units and grep)&lt;/li&gt;
+&lt;li&gt;journalctl&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Machine Learning Engineering</title><link>https://ignaz.io/fields/ml-engineering/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/fields/ml-engineering/</guid><description>&lt;p&gt;ML Engineering turns raw data into actionable insights. Cutting edge models studied in theoretical computer science are often under utilized in the industry. This is in part due to rightful skepticism regarding the model&amp;rsquo;s explainability and ability to generalize to new data outside of their training sets. In my experience, decision trees and regression are by far the most widely used models where safety is critical.&lt;/p&gt;
+&lt;p&gt;Sure, you can use LLMs to chat to your customers, but you should not use it to detect fraud just yet.&lt;/p&gt;</description></item><item><title>Media Sources</title><link>https://ignaz.io/posts/influences/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/posts/influences/</guid><description>&lt;h2 id="as-soon-as-it-releases"&gt;As soon as it releases&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/@Fireship"&gt;Fireship&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/@TwoMinutePapers"&gt;Two Minute Papers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/@MorningBrewDailyShow"&gt;Morning Bew Daily&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="frequently"&gt;Frequently&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/@benjjjaamiinn"&gt;Benjamin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/@EconomicsExplained"&gt;Economics Explained&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/@kurzgesagt"&gt;Kurzgesagt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/@3blue1brown"&gt;3blue1brown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/@synthet7"&gt;Synthet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/@fern-tv"&gt;Fern&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/@very-normal"&gt;Very Normal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/@WelchLabsVideo"&gt;Welch Labs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/@MarkRober"&gt;Mark Rober&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/@Coffeezilla"&gt;Coffeezilla&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/@BenFelixCSI"&gt;Ben Felix&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="data-visualization"&gt;Data Visualization&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://truth-and-beauty.net/projects"&gt;Truth &amp;amp; Beauty&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ourworldindata.org/"&gt;Our World in Data&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Python</title><link>https://ignaz.io/tools/python/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ignaz.io/tools/python/</guid><description>&lt;p&gt;Python is a high-level programming language that consistently ranks as &lt;a href="https://www.tiobe.com/tiobe-index/"&gt;one of the most popular&lt;/a&gt;. As a glue language, it brings a simple API to performant &lt;a href="https://github.com/vinta/awesome-python"&gt;libraries&lt;/a&gt; written in other languages. It is also one of the only languages I can rightfully claim to write idiomatic code in. I try my best to stick to the &lt;a href="https://peps.python.org/pep-0008/"&gt;official style guide&lt;/a&gt; and normally read release notes as soon as they come out, so I can flex on other programmers by using the walrus operator &lt;code&gt;:=&lt;/code&gt;.&lt;/p&gt;</description></item></channel></rss>
